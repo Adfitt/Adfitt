@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adrian 👋
-
-*Adrian Fittipaldi (adrifitt / 42user)*
+# Hi, I'm Adrian Fittipaldi 👋
 
 </div>
 
